@@ -31,7 +31,7 @@ td, th {
 |Centro Brasileiro de Pesquisas Física  |National Astronomical Observatory of Japan (NAOJ), | Instituto de Física y Astronomía| Kavli IPMU |
 
 |:-------------:|:-------------:|:-------------:|:-------------:|
-|<img src="/assets/images/jess.png"  style="width: 120px;">|<img src="/assets/images/chenze.png"  style="width: 120px;">| <img src="/assets/images/thomas.png"  style="width: 120px;"> | <img src="/assets/images/ben.jpg"  style="width: 120px;">|
+|<img src="/assets/images/Jess.png"  style="width: 120px;">|<img src="/assets/images/chenze.png"  style="width: 120px;">| <img src="/assets/images/thomas.png"  style="width: 120px;"> | <img src="/assets/images/ben.jpg"  style="width: 120px;">|
 |[Jess Cowell](https://inspirehep.net/authors/2618702) | [Joaquin Armijo]() | [Camilla P. Novaes] | [ Leander Thiele]()|
 | Oxford/IPMU | Kavli IPMU | Instituto Nacional de Pesquisas Espaciais | Kavli IPMU | 
 
