@@ -6,11 +6,12 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 2
 ---
+**First Constraints from Marked Angular Power Spectra with Subaru Hyper Suprime-Cam Survey First-Year Data**
+([arxiv] https://arXiv.org/abs/2507.12315) Jessica A. Cowell, Joaquin Armijo, Leander Thiele, Gabriela A. Marques, Camila P. Novaes, Daniela Grandón, Sihao Cheng, Masato Shirasaki, David Alonso, Jia Liu \
 
-**The HalfDome Multi-Survey Cosmological Simulations: N-body Simulations** ([arxiv](https://arxiv.org/abs/2407.17462))\
-Adrian E. Bayer, Yici Zhong, Zack Li, Joseph DeRose, Yu Feng, Jia Liu\
-arXiv:2407.17462 (2024)
+**Cosmology from HSC Y1 weak lensing data with combined higher-order statistics and simulation-based inference** (https://ui.adsabs.harvard.edu/abs/2025PhRvD.111h3510N/abstract)
+Camila P. Novaes, Leander Thiele, Joaquin Armijo, Sihao Cheng, Jessica A. Cowell, Gabriela A. Marques, Elisa G. M. Ferreira, Masato Shirasaki, Ken Osato, Jia Liu \
 
-**Super-sample covariance of the power spectrum, bispectrum, halos, voids, and their cross covariances** ([arxiv](https://arxiv.org/abs/2210.15647))\
-Adrian E. Bayer, Jia Liu, Ryo Terasawa, Alexandre Barreira, Yici Zhong, Yu Feng\
-Phys. Rev. D 108, 043521 (2023)
+**Cosmological constraints using Minkowski functionals from the first year data of the Hyper Suprime-Cam**
+(https://ui.adsabs.harvard.edu/link_gateway/2025MNRAS.537.3553A/doi:10.1093/mnras/staf257)
+Joaquin Armijo, Gabriela A. Marques, Camila P. Novaes, Leander Thiele, Jessica A. Cowell, Daniela Grandón, Masato Shirasaki, Jia Liu \
