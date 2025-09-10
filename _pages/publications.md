@@ -7,10 +7,10 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+**The HalfDome Multi-Survey Cosmological Simulations: N-body Simulations** ([arxiv](https://arxiv.org/abs/2407.17462))\
+Adrian E. Bayer, Yici Zhong, Zack Li, Joseph DeRose, Yu Feng, Jia Liu\
+arXiv:2407.17462 (2024)
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<!-- Publications section removed for GitHub Pages compatibility -->
+**Super-sample covariance of the power spectrum, bispectrum, halos, voids, and their cross covariances** ([arxiv](https://arxiv.org/abs/2210.15647))\
+Adrian E. Bayer, Jia Liu, Ryo Terasawa, Alexandre Barreira, Yici Zhong, Yu Feng\
+Phys. Rev. D 108, 043521 (2023)
