@@ -25,19 +25,71 @@ td, th {
 
 ### Team   
 
-|:-------------:|:-------------:|:-------------:|:-------------:|
-|<img src="/assets/images/Gabreila.jpg"  style="height: 150px;">|<img src="/assets/images/masato.jpg"  style="height: 150px;">|<img src="/assets/images/Daniela.jpeg"  style="height: 150px;">|<img src="/assets/images/Jia.jpeg"  style="height: 150px;">|
-|[Gabriella A. Marques]() | [Masato Shirasaki](https://j-dr.github.io/)| [Daniela Grandón]() | [Jia Liu](https://liuxx479.github.io) |
-|Centro Brasileiro de Pesquisas Física  |National Astronomical Observatory of Japan (NAOJ), | Instituto de Física y Astronomía| Kavli IPMU |
+<style>
+/* Page-local styles for team layout: equal-width columns and even spacing */
+.team-table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+.team-table col { width: 25%; }
+.team-table td, .team-table th { padding: 0.75rem 1rem; text-align: center; vertical-align: top; border: none; }
+.team-table img { height: 150px; object-fit: cover; display: block; margin: 0 auto; border-radius: 4px; }
+.team-table .affil { font-size: 0.95rem; color: #333; }
+</style>
 
-|:-------------:|:-------------:|:-------------:|:-------------:|
-|<img src="/assets/images/Jess.png"  style="height: 150px;">|<img src="/assets/images/Joaquin.jpg"  style="height: 150px;">| <img src="/assets/images/Camila.jpeg"  style="height: 150px;"> | <img src="/assets/images/Leander.jpg"  style="height: 150px;">|
-|[Jess Cowell](https://inspirehep.net/authors/2618702) | [Joaquin Armijo]() | [Camilla P. Novaes]() | [ Leander Thiele]()|
-| Oxford/IPMU | Kavli IPMU | Instituto Nacional de Pesquisas Espaciais | Kavli IPMU | 
+### Team
 
-|:-------------:|
-|<img src="/assets/images/Sihao.jpeg"  style="height: 150px;">|  
-|[Sihao Cheng] | 
+<table class="team-table" role="table" aria-label="Team members">
+  <colgroup>
+    <col style="width:25%">
+    <col style="width:25%">
+    <col style="width:25%">
+    <col style="width:25%">
+  </colgroup>
+  <tbody>
+    <tr>
+      <td><img src="/assets/images/Gabriela.jpg" alt="Gabriela A. Marques"></td>
+      <td><img src="/assets/images/masato.jpg" alt="Masato Shirasaki"></td>
+      <td><img src="/assets/images/Daniela.jpeg" alt="Daniela Grandón"></td>
+      <td><img src="/assets/images/Jia.jpeg" alt="Jia Liu"></td>
+    </tr>
+    <tr>
+      <td><a href="">Gabriella A. Marques</a></td>
+      <td><a href="https://j-dr.github.io/">Masato Shirasaki</a></td>
+      <td><a href="">Daniela Grandón</a></td>
+      <td><a href="https://liuxx479.github.io">Jia Liu</a></td>
+    </tr>
+    <tr>
+      <td class="affil">Centro Brasileiro de Pesquisas Física</td>
+      <td class="affil">National Astronomical Observatory of Japan (NAOJ)</td>
+      <td class="affil">Instituto de Física y Astronomía</td>
+      <td class="affil">Kavli IPMU</td>
+    </tr>
+
+    <tr>
+      <td><img src="/assets/images/Jess.png" alt="Jess Cowell"></td>
+      <td><img src="/assets/images/Joaquin.jpg" alt="Joaquin Armijo"></td>
+      <td><img src="/assets/images/Camila.jpeg" alt="Camilla P. Novaes"></td>
+      <td><img src="/assets/images/Leander.jpg" alt="Leander Thiele"></td>
+    </tr>
+    <tr>
+      <td><a href="https://inspirehep.net/authors/2618702">Jess Cowell</a></td>
+      <td><a href="">Joaquin Armijo</a></td>
+      <td><a href="">Camilla P. Novaes</a></td>
+      <td><a href="">Leander Thiele</a></td>
+    </tr>
+    <tr>
+      <td class="affil">Oxford/IPMU</td>
+      <td class="affil">Kavli IPMU</td>
+      <td class="affil">Instituto Nacional de Pesquisas Espaciais</td>
+      <td class="affil">Kavli IPMU</td>
+    </tr>
+
+    <tr>
+      <td colspan="4"><img src="/assets/images/Sihao.jpeg" alt="Sihao Cheng"></td>
+    </tr>
+    <tr>
+      <td colspan="4"><a href="">Sihao Cheng</a></td>
+    </tr>
+  </tbody>
+</table>
 | Princeton | 
 
 
