@@ -23,7 +23,7 @@ td, th {
 }
 </style>
 
-### Team   
+ 
 
 <style>
 /* Page-local styles for team layout: equal-width columns and even spacing */
