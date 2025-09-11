@@ -1,13 +1,8 @@
 ---
-layout: archive
 title: "NG Statistics"
+layout: collection
 permalink: /stats/
-author_profile: true
+collection: portfolio
+entries_layout: grid
+classes: wide
 ---
-
-
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
