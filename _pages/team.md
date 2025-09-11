@@ -26,26 +26,19 @@ td, th {
 ### Team   
 
 |:-------------:|:-------------:|:-------------:|:-------------:|
-|<img src="/assets/images/Gabreilla.png"  style="width: 120px;">|<img src="/assets/images/Masato.jpeg"  style="width: 120px;">|<img src="/assets/images/Daniela.jpeg"  style="width: 120px;">|<img src="/assets/images/Jia.jpeg"  style="width: 120px;">|
+|<img src="/assets/images/Gabreila.jpg"  style="height: 150px;">|<img src="/assets/images/masato.jpg"  style="height: 150px;">|<img src="/assets/images/Daniela.jpeg"  style="height: 150px;">|<img src="/assets/images/Jia.jpeg"  style="height: 150px;">|
 |[Gabriella A. Marques]() | [Masato Shirasaki](https://j-dr.github.io/)| [Daniela Grandón]() | [Jia Liu](https://liuxx479.github.io) |
 |Centro Brasileiro de Pesquisas Física  |National Astronomical Observatory of Japan (NAOJ), | Instituto de Física y Astronomía| Kavli IPMU |
 
 |:-------------:|:-------------:|:-------------:|:-------------:|
-|<img src="/assets/images/Jess.png"  style="width: 120px;">|<img src="/assets/images/Joaquin.jpg"  style="width: 120px;">| <img src="/assets/images/Camila.jpeg"  style="width: 120px;"> | <img src="/assets/images/Leander.jpg"  style="width: 120px;">|
-|[Jess Cowell](https://inspirehep.net/authors/2618702) | [Joaquin Armijo]() | [Camilla P. Novaes] | [ Leander Thiele]()|
+|<img src="/assets/images/Jess.png"  style="height: 150px;">|<img src="/assets/images/Joaquin.jpg"  style="height: 150px;">| <img src="/assets/images/Camila.jpeg"  style="height: 150px;"> | <img src="/assets/images/Leander.jpg"  style="height: 150px;">|
+|[Jess Cowell](https://inspirehep.net/authors/2618702) | [Joaquin Armijo]() | [Camilla P. Novaes]() | [ Leander Thiele]()|
 | Oxford/IPMU | Kavli IPMU | Instituto Nacional de Pesquisas Espaciais | Kavli IPMU | 
 
 |:-------------:|
-|<img src="/assets/images/Sihao.jpeg"  style="width: 120px;">|  
+|<img src="/assets/images/Sihao.jpeg"  style="height: 150px;">|  
 |[Sihao Cheng] | 
 | Princeton | 
-
-### Past Contributors  
-
-|:-------------:|:-------------:|:-------------:|:-------------:|
-|<img src="/assets/images/junjie.jpeg"  style="width: 120px;">|<img src="/assets/images/hideki.png"  style="width: 120px;">| <img src="/assets/images/will.png"  style="width: 120px;"> |
-| [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html) | [Hideki Tanimura](https://inspirehep.net/authors/1890766) | [Will Coulton](https://www.damtp.cam.ac.uk/person/wrc27)  |
-| Kavli IPMU | Kavli IPMU | Cambridge |  
 
 
 
