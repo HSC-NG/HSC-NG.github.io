@@ -12,7 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon"#"sunrise"# "default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise"# "default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+    defaults:
+      # _portfolio
+      - scope:
+          path: ""
+          type: portfolio
+        values:
+          layout: single
+          author_profile: false
+          share: true
 
 # Site Settings
 locale                   : "en-US"
