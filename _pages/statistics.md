@@ -2,7 +2,7 @@
 title: "NG Statistics"
 layout: collection
 permalink: /stats/
-collection: portfolio
+collection: stats
 entries_layout: grid
 classes: wide
 ---
