@@ -4,6 +4,8 @@ main:
     url: https://HSC-NG.github.io/team/
   - title: "Publications"
     url: /publications/
+  - title: " Y1 Statistics"
+    url: /stats/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
