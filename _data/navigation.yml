@@ -1,7 +1,7 @@
 # main links
 main:
-  -title: "About
-    url: https://HSC-NG.github.io/about/
+  # -title: "About
+  #   url: https://HSC-NG.github.io/about/
   - title: "Team"
     url: https://HSC-NG.github.io/team/
   - title: "Publications"
