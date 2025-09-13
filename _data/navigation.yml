@@ -8,8 +8,8 @@ main:
     url: /publications/
   - title: " Y1 Statistics"
     url: /stats/
-  - title: "Y3"
-    url: /y3/
+  # - title: "Y3"
+  #   url: /y3/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
