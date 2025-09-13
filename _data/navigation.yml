@@ -1,11 +1,15 @@
 # main links
 main:
+  -title: "About
+    url: https://HSC-NG.github.io/about/
   - title: "Team"
     url: https://HSC-NG.github.io/team/
   - title: "Publications"
     url: /publications/
   - title: " Y1 Statistics"
     url: /stats/
+  - title: "Y3"
+    url: /y3/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
