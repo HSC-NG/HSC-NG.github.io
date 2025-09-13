@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "HSC NG Stats"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/HSCNGMASCOT.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Somewhere"
   email            :
