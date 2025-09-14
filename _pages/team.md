@@ -34,7 +34,7 @@ td, th {
 .team-table .affil { font-size: 0.95rem; color: #333; }
 </style>
 
-### Team
+
 
 <table class="team-table" role="table" aria-label="Team members">
   <colgroup>
@@ -88,9 +88,10 @@ td, th {
     <tr>
       <td colspan="4"><a href="">Sihao Cheng</a></td>
     </tr>
+     <td class="affil">Institute of Advanced Study</td>
   </tbody>
 </table>
-| Princeton | 
+
 
 
 
