@@ -1,4 +1,3 @@
-
 ---
 permalink: /publications/
 title: "Publications"
@@ -17,6 +16,7 @@ layouts_gallery:
 last_modified_at: 2024-07-24
 toc: false
 ---
+
 **First Constraints from Marked Angular Power Spectra with Subaru Hyper Suprime-Cam Survey First-Year Data**
 ([arxiv]https://arXiv.org/abs/2507.12315) Jessica A. Cowell, Joaquin Armijo, Leander Thiele, Gabriela A. Marques, Camila P. Novaes, Daniela Grandón, Sihao Cheng, Masato Shirasaki, David Alonso, Jia Liu\
 
