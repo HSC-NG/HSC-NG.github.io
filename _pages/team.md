@@ -51,7 +51,7 @@ td, th {
       <td><img src="/assets/images/Jia.jpeg" alt="Jia Liu"></td>
     </tr>
     <tr>
-      <td><a href=" gabrielaamarques.github.io">Gabriela A. Marques</a></td>
+      <td><a href="https://gabrielaamarques.github.io">Gabriela A. Marques</a></td>
       <td><a href="">Masato Shirasaki</a></td>
       <td><a href="">Daniela Grandón</a></td>
       <td><a href="https://liuxx479.github.io">Jia Liu</a></td>
