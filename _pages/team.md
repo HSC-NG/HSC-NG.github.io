@@ -51,13 +51,13 @@ td, th {
       <td><img src="/assets/images/Jia.jpeg" alt="Jia Liu"></td>
     </tr>
     <tr>
-      <td><a href="">Gabriella A. Marques</a></td>
-      <td><a href="https://j-dr.github.io/">Masato Shirasaki</a></td>
+      <td><a href=" gabrielaamarques.github.io">Gabriela A. Marques</a></td>
+      <td><a href="">Masato Shirasaki</a></td>
       <td><a href="">Daniela Grandón</a></td>
       <td><a href="https://liuxx479.github.io">Jia Liu</a></td>
     </tr>
     <tr>
-      <td class="affil">Centro Brasileiro de Pesquisas Física</td>
+      <td class="affil">Brazilian Center of Physics Research</td>
       <td class="affil">National Astronomical Observatory of Japan (NAOJ)</td>
       <td class="affil">Instituto de Física y Astronomía</td>
       <td class="affil">Kavli IPMU</td>
@@ -66,7 +66,7 @@ td, th {
     <tr>
       <td><img src="/assets/images/Jess.png" alt="Jess Cowell"></td>
       <td><img src="/assets/images/Joaquin.jpg" alt="Joaquin Armijo"></td>
-      <td><img src="/assets/images/Camila.jpeg" alt="Camilla P. Novaes"></td>
+      <td><img src="/assets/images/Camila.jpeg" alt="Camila P. Novaes"></td>
       <td><img src="/assets/images/Leander.jpg" alt="Leander Thiele"></td>
     </tr>
     <tr>
